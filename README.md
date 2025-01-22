@@ -1,6 +1,4 @@
-Here's a well-structured and visually appealing README file for your project:  
 
----
 
 # 🌐 Arduino IoT Cloud Smart Home Automation System 🏠
 
