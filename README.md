@@ -1,6 +1,6 @@
 
 
-# 🌐 Arduino IoT Cloud Smart Home Automation System 🏠
+# 🌐 Arduino IoT Cloud Smart Home Automation System🏠
 
 🚀 **Welcome to the Smart Home Automation System!** This project integrates Arduino IoT Cloud, DHT sensors, IR remote controls, and relays for efficient home automation. Control your devices remotely, monitor temperature and humidity, and make your home smarter!  
 
